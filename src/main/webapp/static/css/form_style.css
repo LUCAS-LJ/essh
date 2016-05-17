@@ -1,0 +1,23 @@
+.dialog-form {
+	margin: 0;
+	padding: 5px 20px 20px 20px;
+}
+
+.dialog-form div {
+	margin-bottom: 5px;
+}
+
+.dialog-form div textarea {
+    position: relative; resize: none; height: 75px; width: 260px;
+}
+
+.dialog-form div .easyui-validatebox{
+	width: 260px;
+    height:28px;
+}
+
+.dialog-form div label {
+	display: inline-block;
+	text-align: left;
+	width: 96px;
+}
